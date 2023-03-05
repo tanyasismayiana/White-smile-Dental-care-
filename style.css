@@ -1,0 +1,135 @@
+body{
+background-color: #EEF5FF;
+font-family: 'Nunito';
+}
+
+.intro{
+    display: flex;
+    margin-left: 60px;
+
+}
+.displayImage{
+    margin-left: 560px;
+    width: 514px;
+    height: 640px;
+}
+.logo{
+    margin-left: 35px;
+}
+.logo h2{
+    font-size: 48px;
+}
+.buttons{
+    display: flex;
+}
+.bookAppointment button{
+    background-color: #204289;
+    width: 243px;
+    height: 54px;
+    border-radius: 15px;
+    padding: 5px;
+    color: #FFFFFF;
+    margin-right: 15px;
+    font-size: 24px;
+}
+.watchbtn{
+    margin-top: 15px;
+}
+.watchbtn i{
+    font-size: 25px;
+}
+.comment{
+    display: flex;
+    margin-left: 90px;
+}
+
+.textComment{
+    font-size: 34px;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+.textComment p{
+    color: #4d4e4f;
+}
+
+
+.textComment i{
+color:#204289 ;
+}
+
+.callbtn{
+    margin-top: 150px;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    height: 66px;
+    width: 320px;
+    padding-top: 20px;
+    padding-right: 10px; 
+    padding-left: 30px;
+    margin-left: 45px;
+    display: flex;
+
+}
+
+.contact h3{
+    margin-top:10px;
+    margin-left: 25px;
+    font-size: 25px;
+    
+}
+
+.phone i{
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #E24747;
+    color: #FFFFFF;
+    border-radius: 50px;
+    width: 50px;
+    height: 35px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.circle{
+    background-color: #FBE7E7;
+    color: #FFFFFF;
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    margin-top: -10px;
+    margin-left: -5px;
+}
+
+.bluePart{
+    background-color: #204289;
+    height: 153px;
+    display: flex;
+}
+
+.services{
+    display: flex;
+    margin-left: 30px;
+    
+   
+}
+
+.service h3{
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-right: 25px;
+}
+
+.serviceIcon i{
+    color: #FFFFFF;
+    font-size:32px ;
+    margin-top: 35px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+.iconOne{
+    margin-right: 35px;
+}
+
