@@ -5,19 +5,21 @@ font-family: 'Nunito';
 
 .intro{
     display: flex;
-    margin-left: 60px;
+    margin-left: 40px;
 
 }
 .displayImage{
-    margin-left: 560px;
+    margin-left: 100px;
     width: 514px;
     height: 640px;
 }
 .logo{
-    margin-left: 35px;
+    margin-left: 25px;
 }
 .logo h2{
     font-size: 48px;
+    /* background-color: red; */
+    width: 600px;
 }
 .buttons{
     display: flex;
@@ -40,7 +42,7 @@ font-family: 'Nunito';
 }
 .comment{
     display: flex;
-    margin-left: 90px;
+    margin-left: 60px;
 }
 
 .textComment{
@@ -51,6 +53,7 @@ font-family: 'Nunito';
 }
 .textComment p{
     color: #4d4e4f;
+    width: 650px;
 }
 
 
@@ -59,21 +62,21 @@ color:#204289 ;
 }
 
 .callbtn{
-    margin-top: 150px;
+    margin-top: 300px;
     background-color: #FFFFFF;
     border-radius: 50px;
-    height: 66px;
+    height: 60px;
     width: 320px;
     padding-top: 20px;
     padding-right: 10px; 
     padding-left: 30px;
-    margin-left: 45px;
+    margin-left: -100px;
     display: flex;
 
 }
 
 .contact h3{
-    margin-top:10px;
+    margin-top: 5px;
     margin-left: 25px;
     font-size: 25px;
     
@@ -97,33 +100,32 @@ color:#204289 ;
     border-radius: 50px;
     width: 70px;
     height: 70px;
-    margin-top: -10px;
+    margin-top: -15px;
     margin-left: -5px;
 }
 
 .bluePart{
     background-color: #204289;
-    height: 153px;
+    height: 140px;
     display: flex;
 }
 
 .services{
     display: flex;
-    margin-left: 30px;
-    
+    margin-left: 30px;    
    
 }
 
 .service h3{
-    font-size: 32px;
+    font-size: 22px;
     color: #FFFFFF;
     margin-top: 50px;
-    margin-right: 25px;
+    margin-right: 20px;
 }
 
 .serviceIcon i{
     color: #FFFFFF;
-    font-size:32px ;
+    font-size: 22px ;
     margin-top: 35px;
     margin-left: 20px;
     margin-top: 50px;
