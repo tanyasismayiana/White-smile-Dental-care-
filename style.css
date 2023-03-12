@@ -219,3 +219,38 @@ color:#204289 ;
     font-size: 20px;
     margin-top: -5px;
 }
+/* end of third section */
+
+/* start of appointment container */
+
+.appointment_container{
+    background-color: white;
+}
+
+.appointment_text{
+    text-align: center;
+    background-color: #E24747;
+    padding: 10px -40px;
+}
+.doctor_container {
+    display: flex;
+    justify-content: center;
+}
+.doctor_container img{
+    width: 300px;
+    margin-inline: 50px;
+}
+.doctor_container h3, h4{
+    text-align: center;
+    font-size: 30px;
+}
+.doctor_container h4{
+    color: gray;
+    margin-top: -32px;
+}
+.doc_img_2{
+    margin-top: 300px;
+}
+.doc_img_3{
+    margin-top: 600px;
+}
